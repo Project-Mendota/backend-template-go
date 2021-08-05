@@ -17,3 +17,6 @@
 /conf
 
 .idea
+
+# binary
+./server
