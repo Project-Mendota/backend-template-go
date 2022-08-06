@@ -1,2 +1,2 @@
 # backend-template-go
-A awesome go backend template
+An awesome go backend template
